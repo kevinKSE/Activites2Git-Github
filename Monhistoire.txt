@@ -1,0 +1,9 @@
+
+
+c'est l'histoire d'un jeune de plus de 50 ans qui voulait devenir developpeur mobile
+c'est très dur car il n'a pas de connaissance en codage mais il s'apperçoit qu'il y prend goût et il commence à comprendre les actions su'il fait avec les commandes de linux mais aussi les cdes git 
+d'ailleur ce test est ecrti avec Nano l'editeur de base mais il s'est permit le luxe d'ajouter un parametre à l'appel de nano et c'est les options iam qui permettent d'utiliser la souris dans cet editeur de texte
+ensuite (je) suis triste car je sais que je vais devoir passer à un editeur de texte plus evolué comme VIM 
+j'espère que cette avanture que je débute va se conclure positivement en tout cas j'en ai envie et je m'apperçois qu'un monde insoupsonné s'ouvre à mois
+il faut avoir le courage d'allr au bout de ses projets 
+signé Kévin l'apprentit developpeur mobile
